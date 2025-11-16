@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Addyamishra/Leetsols/tree/master/3676-smallest-number-with-all-set-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Addyamishra/Leetsols/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
