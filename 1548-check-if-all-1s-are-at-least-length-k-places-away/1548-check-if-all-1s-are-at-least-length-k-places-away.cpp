@@ -7,7 +7,7 @@ public:
         if(o && i==1){
             if(c<k) return false;
             c=0;
-        }else if(i==0 && o) c++;
+        }else if(o) c++;
         if(i==1) o=true;
      }   
      return true;
