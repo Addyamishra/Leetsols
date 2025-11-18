@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Addyamishra/Leetsols/tree/master/0052-n-queens-ii) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Addyamishra/Leetsols/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Addyamishra/Leetsols/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
