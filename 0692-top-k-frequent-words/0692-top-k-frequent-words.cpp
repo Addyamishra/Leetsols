@@ -14,8 +14,6 @@ public:
         }
         map<int,set<string>> freq_to_string;
         for(auto p:freq){
-            //Line 14: Char 23: error: member reference type 'std::pair<const std::basic_string<char>, int>' is not a pointer; did you mean to use '.'?
-//    14 |             string s=p->first;
             string s=p.first;
             int f=p.second;
             freq_to_string[f].insert(s);
