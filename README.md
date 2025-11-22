@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Addyamishra/Leetsols/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Addyamishra/Leetsols/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Addyamishra/Leetsols/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Addyamishra/Leetsols/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
