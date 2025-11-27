@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Addyamishra/Leetsols/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Addyamishra/Leetsols/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Addyamishra/Leetsols/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
