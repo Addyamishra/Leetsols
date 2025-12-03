@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Addyamishra/Leetsols/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Addyamishra/Leetsols/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Addyamishra/Leetsols/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Addyamishra/Leetsols/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Addyamishra/Leetsols/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Addyamishra/Leetsols/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Addyamishra/Leetsols/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Design
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Addyamishra/Leetsols/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Addyamishra/Leetsols/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Addyamishra/Leetsols/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
@@ -153,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Addyamishra/Leetsols/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Addyamishra/Leetsols/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
