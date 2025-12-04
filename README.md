@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Addyamishra/Leetsols/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/Addyamishra/Leetsols/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Addyamishra/Leetsols/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Addyamishra/Leetsols/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Addyamishra/Leetsols/tree/master/0072-edit-distance) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/Addyamishra/Leetsols/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Addyamishra/Leetsols/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Addyamishra/Leetsols/tree/master/2211-count-collisions-on-a-road) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Addyamishra/Leetsols/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Geometry
 |  |
