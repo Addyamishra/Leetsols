@@ -1,21 +1,40 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums, int k) {
+        const int MOD = 1e9 + 7;
         int n = nums.size();
-        long long mod = 1e9 + 7;
-        vector<long long> dp(n + 1);
-        vector<long long> prefix(n + 1);
-        multiset<int> cnt;
+
+        vector<long long> dp(n + 1) , prefix(n + 2);
         dp[0] = 1;
-        prefix[0] = 1;
-        for (int i = 0, j = 0; i < nums.size(); i++) {
-            cnt.emplace(nums[i]);
-            while (j <= i && *cnt.rbegin() - *cnt.begin() > k) {
-                cnt.erase(cnt.find(nums[j]));
-                j++;
+        prefix[1] = 1;
+
+        deque<int> minQ , maxQ;
+        int l = 0;
+
+
+        for (int i = 0; i < n; ++i) {
+            while(!maxQ.empty() && nums[maxQ.back()] <= nums[i]) {
+                maxQ.pop_back();
             }
-            dp[i + 1] = (prefix[i] - (j > 0 ? prefix[j - 1] : 0) + mod) % mod;
-            prefix[i + 1] = (prefix[i] + dp[i + 1]) % mod;
+            while(!minQ.empty() && nums[minQ.back()] >= nums[i]) {
+                minQ.pop_back();
+            }
+
+            maxQ.push_back(i);
+            minQ.push_back(i);
+
+            while(nums[maxQ.front()] - nums[minQ.front()] > k) {
+                if (maxQ.front() == l) {
+                    maxQ.pop_front();
+                }
+                if (minQ.front() == l) {
+                    minQ.pop_front();
+                }
+                ++l;
+            }
+
+            dp[i + 1] = (prefix[i + 1] - prefix[l] + MOD) % MOD;
+            prefix[i + 2] = (prefix[i + 1] + dp[i + 1]) % MOD;
         }
         return dp[n];
     }
