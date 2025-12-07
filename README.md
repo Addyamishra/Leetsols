@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Addyamishra/Leetsols/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Addyamishra/Leetsols/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
