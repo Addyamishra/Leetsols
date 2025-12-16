@@ -3,7 +3,7 @@ public:
 vector<int> re() {
     vector<int> res;
 
-    for (int x = 1; x < 100000; x++) {
+    for (int x = 1; x <=10000; x++) {
         int n = x;
         int rev = 0;
         while (n > 0) {
