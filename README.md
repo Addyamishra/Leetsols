@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Addyamishra/Leetsols/tree/master/2169-simple-bank-system) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Addyamishra/Leetsols/tree/master/0072-edit-distance) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Addyamishra/Leetsols/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Addyamishra/Leetsols/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Addyamishra/Leetsols/tree/master/0052-n-queens-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
 ## Linked List
 |  |
 | ------- |
