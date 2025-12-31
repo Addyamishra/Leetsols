@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Addyamishra/Leetsols/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Addyamishra/Leetsols/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Addyamishra/Leetsols/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Addyamishra/Leetsols/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -224,9 +227,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Addyamishra/Leetsols/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
 |  |
 | ------- |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Addyamishra/Leetsols/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
