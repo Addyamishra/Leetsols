@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Addyamishra/Leetsols/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Addyamishra/Leetsols/tree/master/0066-plus-one) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Addyamishra/Leetsols/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Addyamishra/Leetsols/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Addyamishra/Leetsols/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Addyamishra/Leetsols/tree/master/1925-count-square-sum-triples) |
