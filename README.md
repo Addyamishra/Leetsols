@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Addyamishra/Leetsols/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Addyamishra/Leetsols/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Addyamishra/Leetsols/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Addyamishra/Leetsols/tree/master/2169-simple-bank-system) |
