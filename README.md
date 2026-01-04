@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Addyamishra/Leetsols/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Addyamishra/Leetsols/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Addyamishra/Leetsols/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Addyamishra/Leetsols/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/Addyamishra/Leetsols/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Addyamishra/Leetsols/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Addyamishra/Leetsols/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Addyamishra/Leetsols/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
