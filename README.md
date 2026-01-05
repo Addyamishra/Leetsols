@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Addyamishra/Leetsols/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Addyamishra/Leetsols/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Addyamishra/Leetsols/tree/master/3074-apple-redistribution-into-boxes) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
