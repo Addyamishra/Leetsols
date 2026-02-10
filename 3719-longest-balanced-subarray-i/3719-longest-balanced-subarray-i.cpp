@@ -177,9 +177,9 @@ public:
         //     if(ev.size()==od.size()) ans=max(ans,)
         // }
         // return ans;
-           SegmentTree st(nums);
+        //    SegmentTree st(nums);
         //    int ans=0;
-           unordered_set<int> evenSet, oddSet;
+        //    unordered_set<int> evenSet, oddSet;
 
     // int l = 0;
     // int ans = 0;
