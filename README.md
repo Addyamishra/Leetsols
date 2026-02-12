@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Addyamishra/Leetsols/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Addyamishra/Leetsols/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Addyamishra/Leetsols/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Addyamishra/Leetsols/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Addyamishra/Leetsols/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Addyamishra/Leetsols/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Addyamishra/Leetsols/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Addyamishra/Leetsols/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Addyamishra/Leetsols/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Addyamishra/Leetsols/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3583-count-special-triplets](https://github.com/Addyamishra/Leetsols/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Addyamishra/Leetsols/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Addyamishra/Leetsols/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Greedy
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Addyamishra/Leetsols/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Addyamishra/Leetsols/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Addyamishra/Leetsols/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Addyamishra/Leetsols/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 ## Stack
 |  |
