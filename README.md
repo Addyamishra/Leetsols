@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Addyamishra/Leetsols/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Addyamishra/Leetsols/tree/master/0072-edit-distance) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/Addyamishra/Leetsols/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Addyamishra/Leetsols/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addyamishra/Leetsols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Addyamishra/Leetsols/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Breadth-First Search
