@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Addyamishra/Leetsols/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Addyamishra/Leetsols/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Addyamishra/Leetsols/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Addyamishra/Leetsols/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Addyamishra/Leetsols/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Addyamishra/Leetsols/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Addyamishra/Leetsols/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Addyamishra/Leetsols/tree/master/3721-longest-balanced-subarray-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/0761-special-binary-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1200-minimum-absolute-difference](https://github.com/Addyamishra/Leetsols/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
