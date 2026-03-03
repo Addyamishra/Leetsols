@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Addyamishra/Leetsols/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Addyamishra/Leetsols/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Addyamishra/Leetsols/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2169-simple-bank-system](https://github.com/Addyamishra/Leetsols/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Addyamishra/Leetsols/tree/master/2211-count-collisions-on-a-road) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Addyamishra/Leetsols/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Addyamishra/Leetsols/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Addyamishra/Leetsols/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Addyamishra/Leetsols/tree/master/2211-count-collisions-on-a-road) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Addyamishra/Leetsols/tree/master/0025-reverse-nodes-in-k-group) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sorting
 |  |
 | ------- |
