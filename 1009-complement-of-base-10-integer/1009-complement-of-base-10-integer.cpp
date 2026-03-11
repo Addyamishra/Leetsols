@@ -1,12 +1,12 @@
 class Solution {
 public:
     int bitwiseComplement(int n) {
-        if(n==0) return 1;
         int num = 0,temp=n;
-        while(n){
+        while(n>=0){
+            n = n >>1;
             num|=1;
             num<<=1;
-            n = n >>1;
+            if(n==0) break;
         }
         return (num/2)^temp;
     }
