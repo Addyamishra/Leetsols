@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Addyamishra/Leetsols/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Addyamishra/Leetsols/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Addyamishra/Leetsols/tree/master/0240-search-a-2d-matrix-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Addyamishra/Leetsols/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Addyamishra/Leetsols/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/0761-special-binary-string) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Addyamishra/Leetsols/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Addyamishra/Leetsols/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/Addyamishra/Leetsols/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addyamishra/Leetsols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
