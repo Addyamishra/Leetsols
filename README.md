@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Addyamishra/Leetsols/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Addyamishra/Leetsols/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Addyamishra/Leetsols/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Addyamishra/Leetsols/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Addyamishra/Leetsols/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Addyamishra/Leetsols/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Addyamishra/Leetsols/tree/master/3379-transformed-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Addyamishra/Leetsols/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Addyamishra/Leetsols/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Addyamishra/Leetsols/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Addyamishra/Leetsols/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Addyamishra/Leetsols/tree/master/3623-count-number-of-trapezoids-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Addyamishra/Leetsols/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Addyamishra/Leetsols/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Addyamishra/Leetsols/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Addyamishra/Leetsols/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Addyamishra/Leetsols/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Addyamishra/Leetsols/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Addyamishra/Leetsols/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Addyamishra/Leetsols/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Bucket Sort
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Addyamishra/Leetsols/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Addyamishra/Leetsols/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Addyamishra/Leetsols/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
