@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Addyamishra/Leetsols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Addyamishra/Leetsols/tree/master/0407-trapping-rain-water-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Addyamishra/Leetsols/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Addyamishra/Leetsols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Addyamishra/Leetsols/tree/master/0407-trapping-rain-water-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Addyamishra/Leetsols/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Addyamishra/Leetsols/tree/master/0407-trapping-rain-water-ii) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Addyamishra/Leetsols/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Addyamishra/Leetsols/tree/master/0407-trapping-rain-water-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Addyamishra/Leetsols/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
