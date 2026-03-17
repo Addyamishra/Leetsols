@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Addyamishra/Leetsols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Addyamishra/Leetsols/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Addyamishra/Leetsols/tree/master/0407-trapping-rain-water-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Addyamishra/Leetsols/tree/master/0334-increasing-triplet-subsequence) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Addyamishra/Leetsols/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
