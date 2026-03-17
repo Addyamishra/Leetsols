@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Addyamishra/Leetsols/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Addyamishra/Leetsols/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addyamishra/Leetsols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Addyamishra/Leetsols/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Addyamishra/Leetsols/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Addyamishra/Leetsols/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Addyamishra/Leetsols/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Addyamishra/Leetsols/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Addyamishra/Leetsols/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1200-minimum-absolute-difference](https://github.com/Addyamishra/Leetsols/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Addyamishra/Leetsols/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addyamishra/Leetsols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Addyamishra/Leetsols/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Addyamishra/Leetsols/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Addyamishra/Leetsols/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Addyamishra/Leetsols/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Addyamishra/Leetsols/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addyamishra/Leetsols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
