@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Addyamishra/Leetsols/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Addyamishra/Leetsols/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Addyamishra/Leetsols/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Addyamishra/Leetsols/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Addyamishra/Leetsols/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Addyamishra/Leetsols/tree/master/3721-longest-balanced-subarray-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Addyamishra/Leetsols/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/Addyamishra/Leetsols/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Addyamishra/Leetsols/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Addyamishra/Leetsols/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Addyamishra/Leetsols/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Addyamishra/Leetsols/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Addyamishra/Leetsols/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Addyamishra/Leetsols/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Addyamishra/Leetsols/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Divide and Conquer
 |  |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Addyamishra/Leetsols/tree/master/3074-apple-redistribution-into-boxes) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Addyamishra/Leetsols/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Addyamishra/Leetsols/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Addyamishra/Leetsols/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Addyamishra/Leetsols/tree/master/3745-maximize-expression-of-three-elements) |
 ## Trie
 |  |
