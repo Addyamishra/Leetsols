@@ -1,24 +1,42 @@
 class Solution {
 public:
-     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-        unordered_set<string> obs;
-        for(int i=0;i<obstacles.size();i++) obs.insert(to_string(obstacles[i][0])+"#"+to_string(obstacles[i][1]));
-        int res=0, dir=0, x=0, y=0;
-        vector<vector<int>> ds={{0,1}, {1,0}, {0,-1}, {-1,0}};
-        for(int i=0;i<commands.size();i++) {
-            if(commands[i]==-2) dir--;
-            else if(commands[i]==-1) dir++;
-            else {
-                for(int j=0;j<commands[i];j++) {
-                    string pos=to_string(x+ds[dir][0])+"#"+to_string(y+ds[dir][1]);
-                    if(obs.find(pos)!=obs.end()) break;
-                    x+=ds[dir][0], y+=ds[dir][1];
-                }
-                res=max(res, x*x+y*y);
-            }
-            if(dir==-1) dir=3;
-            if(dir==4) dir=0;
+    int robotSim(vector<int>& commands, vector<vector<int>>& obs) {
+        int mo=1,r=0,c=0;
+        int ans=0;
+        set<vector<int>> cont;
+        for(auto ind:obs){
+            cont.insert(ind);
         }
-        return res;
+        for(int i:commands){
+            if(i==-2){
+                if(mo==1) mo=4;
+                else if(mo==2) mo=1;
+                else if(mo==3) mo=2;
+                else if(mo==4) mo=3;
+            }
+            else if(i==-1){
+                if(mo==1) mo=2;
+                else if(mo==2) mo=3;
+                else if(mo==3) mo=4;
+                else if(mo==4) mo=1;
+            }
+            else{
+                if(mo==1){
+                   for(int k=0;k<i;k++) {if(cont.count({r,c+1})) break; else c++;}
+                }
+                if(mo==2){
+                    for(int k=0;k<i;k++) {if(cont.count({r+1,c})) break; else r++;}
+                }
+                if(mo==3){
+                   for(int k=0;k<i;k++) {if(cont.count({r,c-1})) break; else c--;}
+                }
+                if(mo==4){
+                    for(int k=0;k<i;k++) {if(cont.count({r-1,c})) break; else r--;}
+                }
+            }
+            ans=max(ans,r*r+c*c);
+            // return ans;
+        }
+        return ans;
     }
 };
