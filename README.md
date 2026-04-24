@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Addyamishra/Leetsols/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Addyamishra/Leetsols/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Addyamishra/Leetsols/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Addyamishra/Leetsols/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Addyamishra/Leetsols/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Addyamishra/Leetsols/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2833-furthest-point-from-origin](https://github.com/Addyamishra/Leetsols/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/Addyamishra/Leetsols/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Addyamishra/Leetsols/tree/master/3713-longest-balanced-substring-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Addyamishra/Leetsols/tree/master/3746-minimum-string-length-after-balanced-removals) |
