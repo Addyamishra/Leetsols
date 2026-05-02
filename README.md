@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Addyamishra/Leetsols/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Addyamishra/Leetsols/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Addyamishra/Leetsols/tree/master/0152-maximum-product-subarray) |
+| [0788-rotated-digits](https://github.com/Addyamishra/Leetsols/tree/master/0788-rotated-digits) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Addyamishra/Leetsols/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Addyamishra/Leetsols/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Addyamishra/Leetsols/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Addyamishra/Leetsols/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Addyamishra/Leetsols/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Addyamishra/Leetsols/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Addyamishra/Leetsols/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Addyamishra/Leetsols/tree/master/1390-four-divisors) |
