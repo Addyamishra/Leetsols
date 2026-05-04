@@ -1,7 +1,6 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        if(s=="") return 0;
         vector<int> cont(129,0);
         int st=0,e=0,n=s.length(),ans=0;
         while(e<n){
