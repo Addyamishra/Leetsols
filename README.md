@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Addyamishra/Leetsols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Addyamishra/Leetsols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Addyamishra/Leetsols/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Addyamishra/Leetsols/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Addyamishra/Leetsols/tree/master/1004-max-consecutive-ones-iii) |
@@ -619,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/Addyamishra/Leetsols/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Addyamishra/Leetsols/tree/master/3474-lexicographically-smallest-generated-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Addyamishra/Leetsols/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
