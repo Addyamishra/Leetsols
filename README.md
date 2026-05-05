@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/Addyamishra/Leetsols/tree/master/2239-find-closest-number-to-zero) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Addyamishra/Leetsols/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Addyamishra/Leetsols/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Addyamishra/Leetsols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Addyamishra/Leetsols/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Addyamishra/Leetsols/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Addyamishra/Leetsols/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Addyamishra/Leetsols/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Addyamishra/Leetsols/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Addyamishra/Leetsols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Addyamishra/Leetsols/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Addyamishra/Leetsols/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Addyamishra/Leetsols/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Addyamishra/Leetsols/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Addyamishra/Leetsols/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Addyamishra/Leetsols/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Addyamishra/Leetsols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Addyamishra/Leetsols/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Addyamishra/Leetsols/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Addyamishra/Leetsols/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Addyamishra/Leetsols/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Addyamishra/Leetsols/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addyamishra/Leetsols/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Addyamishra/Leetsols/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Addyamishra/Leetsols/tree/master/3643-flip-square-submatrix-vertically) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Addyamishra/Leetsols/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Breadth-First Search
