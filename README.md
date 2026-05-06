@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Addyamishra/Leetsols/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Addyamishra/Leetsols/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/Addyamishra/Leetsols/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Addyamishra/Leetsols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Addyamishra/Leetsols/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Addyamishra/Leetsols/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Addyamishra/Leetsols/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Addyamishra/Leetsols/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Addyamishra/Leetsols/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Addyamishra/Leetsols/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Addyamishra/Leetsols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Addyamishra/Leetsols/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/1980-find-unique-binary-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Addyamishra/Leetsols/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Addyamishra/Leetsols/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Addyamishra/Leetsols/tree/master/0840-magic-squares-in-grid) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Addyamishra/Leetsols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Addyamishra/Leetsols/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Addyamishra/Leetsols/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/Addyamishra/Leetsols/tree/master/1518-water-bottles) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Addyamishra/Leetsols/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Addyamishra/Leetsols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Addyamishra/Leetsols/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Addyamishra/Leetsols/tree/master/1590-make-sum-divisible-by-p) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Addyamishra/Leetsols/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Addyamishra/Leetsols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Addyamishra/Leetsols/tree/master/0076-minimum-window-substring) |
 | [1004-max-consecutive-ones-iii](https://github.com/Addyamishra/Leetsols/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Addyamishra/Leetsols/tree/master/1248-count-number-of-nice-subarrays) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Addyamishra/Leetsols/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Addyamishra/Leetsols/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Addyamishra/Leetsols/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
