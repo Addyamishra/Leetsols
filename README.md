@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Addyamishra/Leetsols/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Addyamishra/Leetsols/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Addyamishra/Leetsols/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Addyamishra/Leetsols/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Addyamishra/Leetsols/tree/master/0407-trapping-rain-water-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Addyamishra/Leetsols/tree/master/0540-single-element-in-a-sorted-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Addyamishra/Leetsols/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Addyamishra/Leetsols/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Addyamishra/Leetsols/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Addyamishra/Leetsols/tree/master/0274-h-index) |
 | [0692-top-k-frequent-words](https://github.com/Addyamishra/Leetsols/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Addyamishra/Leetsols/tree/master/0761-special-binary-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Addyamishra/Leetsols/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Addyamishra/Leetsols/tree/master/0278-first-bad-version) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Addyamishra/Leetsols/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
